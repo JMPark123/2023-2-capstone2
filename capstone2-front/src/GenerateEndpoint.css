@@ -1,0 +1,40 @@
+/* GenerateEndpoint.css */
+
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.text-area {
+    width: 80%;
+    height: auto;
+    min-height: 100px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 24px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #f0f8ff;
+    /* 연한 하늘색 */
+}
+
+.submit-button {
+    background-color: #4caf50;
+    /* 녹색 */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.response-container {
+    border: 2px solid black;
+    min-height: 50px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: #f0f8ff;
+    /* 연한 하늘색 */
+}
